@@ -1,11 +1,71 @@
 ## Mini Projects
 
-- [카페 선정 요인 분석]() ( ? ~ 2019.06.11) <br>
-데이터마이닝 입문 학과 강의 팀 프로젝트. 커피 시장 규모 확대에 따른 소비자의 커피 전문점 선택 원인 파악
-- [BC카드 이용내역 데이터 분석]()<br>
-- [음악 장르 예측]()<br>
-- [동화책 만들기]()<br>
-- [외국인 발화 한국어 음석 인식률 향상 해커톤]()<br>
-- [도로시설물 양호/불량 알고리즘]()<br>
-- [CNN 알고리즘을 활용한 건설현장 근로자 안전모 착용여부 인식 모델 개발]()<br>
-- [네이버 웹툰 썸네일로 저연령층 대상 콘텐츠 필터링]()<br>
+- [네이버 웹툰 썸네일로 저연령층 대상 콘텐츠 필터링](https://github.com/dlguswls/MiniProject/tree/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%9B%B9%ED%88%B0%20%EC%8D%B8%EB%84%A4%EC%9D%BC%EB%A1%9C%20%EC%A0%80%EC%97%B0%EB%A0%B9%EC%B8%B5%20%EB%8C%80%EC%83%81%20%EC%BD%98%ED%85%90%EC%B8%A0%20%ED%95%84%ED%84%B0%EB%A7%81)<br>
+  - 블록체인과 딥러닝 학과 강의 개인 프로젝트
+  - 수행일 : 2022.05.25
+  - 참여 인원 : 총 1명(개인)
+  - Keyword : Python. CNN, VGG16, ResNet, EfficientNet
+  - 내용 요약 : 네이버 웹툰 썸네일을 통해 자극적인 장르와 그렇지 않은 장르 구분
+- [CNN 알고리즘을 활용한 건설현장 근로자 안전모 착용여부 인식 모델 개발](https://github.com/dlguswls/MiniProject/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D(CNN_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%EA%B1%B4%EC%84%A4%ED%98%84%EC%9E%A5_%EA%B7%BC%EB%A1%9C%EC%9E%90_%EC%95%88%EC%A0%84%EB%AA%A8_%EC%B0%A9%EC%9A%A9%EC%97%AC%EB%B6%80_%EC%9D%B8%EC%8B%9D_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EB%B0%9C).ipynb)<br>
+  - 딥러닝 학과 강의 팀 프로젝트
+  - 수행일 : 2022.05.31
+  - 참여 인원 : 총 3명(팀)
+  - Keyword : Python. CNN, SimpleConvnet, VGG, ResNet, MobileNet, YOLOv5
+  - 내용 요약 : 근로현장 CCTV 사진 속 안전모 착용여부 분류
+- [도로시설물 양호/불량 알고리즘](https://github.com/dlguswls/MiniProject/blob/main/%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EB%AC%BC%20%EC%96%91%ED%98%B8%EB%B6%88%EB%9F%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)<br>
+  - 2021 인공지능 학습용 데이터 해커톤 대회 - 보행안전 도로시설물 부문 ( AI야 교통안전을 부탁해~ )
+  - 수행일 : 2021.12.13
+  - 참여 인원 : 총 6명(팀)
+  - Keyword : Python. YOLOv5, CNN, EfficientNet
+  - 내용 요약 : 30가지 도로시설물 구분 후 망가진 도로시설물 탐지
+- [외국인 발화 한국어 음석 인식률 향상 해커톤](https://github.com/dlguswls/MiniProject/tree/main/%EC%99%B8%EA%B5%AD%EC%9D%B8%20%EB%B0%9C%ED%99%94%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%9D%8C%EC%84%9D%20%EC%9D%B8%EC%8B%9D%EB%A5%A0%20%ED%96%A5%EC%83%81%20%ED%95%B4%EC%BB%A4%ED%86%A4)<br>
+  - 2021 외국인 발화 한국어 음성 인식률 향상 해커톤 경진대회(씨에스리)
+  - 수행일 : 2021.12.10
+  - 참여 인원 : 총 3명(팀)
+  - Keyword : Python. SpeechRecognition, KoSpeech
+  - 내용 요약 : 음성인식 공부
+- [동화책 만들기](https://github.com/dlguswls/MiniProject/tree/main/%EB%8F%99%ED%99%94%EC%B1%85%20%EB%A7%8C%EB%93%A4%EA%B8%B0)<br>
+  - 국민대학교 빅데이터분석학회 D&A Conference부문 프로젝트
+  - 수행일 : 2021.11.23
+  - 참여 인원 : 총 5명(팀)
+  - Keyword : Python. DALL-E
+  - 내용 요약 : 요약된 텍스트를 입력받아 동화책 스타일의 이미지를 생성하는 부분 참여
+- [음악 장르 예측](https://github.com/dlguswls/MiniProject/tree/main/%EC%9D%8C%EC%95%85%20%EC%9E%A5%EB%A5%B4%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0(BITAmin%206%EA%B8%B0%20%EB%B3%B5%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8))<br>
+  - 빅데이터 연합동아리 Bitamin 6기 중간 복습 프로젝트
+  - 수행일 : 2021.10.30
+  - 참여 인원 : 총 4명(팀)
+  - Keyword : Python. XGBClassifier
+  - 내용 요약 : Kaggle Spotify 데이터 이용하여 음악 장르 예측하기
+- [BC카드 이용내역 데이터 분석](https://github.com/dlguswls/MiniProject/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B8%B0%EC%B4%88%EC%99%80%20%EC%9D%B8%ED%8F%AC%EB%A7%88%ED%8B%B1%EC%8A%A4(3%EC%9B%94%20BC%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%9A%A9%EB%82%B4%EC%97%AD%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D).pdf)<br>
+  - 머신러닝 기초와 인포마틱스 학과 강의 개인 프로젝트
+  - 수행일 : 2020.12.14
+  - 참여 인원 : 총 1명(개인)
+  - Keyword : Python. DecisionTree, 시각화
+  - 내용 요약 : BC카드 데이터를 활용한 다양한 시각화 자료 제시 및 DecisionTree 활용
+- [911 신고데이터 분석](https://github.com/dlguswls/MiniProject/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%EA%B3%BC%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(911%20%EC%8B%A0%EA%B3%A0%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D).pptx)<br>
+  - 데이터마이닝과 파이썬 프로그래밍 학과 강의 개인 프로젝트
+  - 수행일 : 2020.12.14
+  - 참여 인원 : 총 1명(개인)
+  - Keyword : Python. OLS, 시각화
+  - 내용 요약 : Kaggle 911 신고전화데이터 시각화 및 활용 인사이트 도출
+- [MOVIE](https://github.com/dlguswls/MiniProject/blob/main/%EB%8D%B0%EB%B2%A0(MOVIE).pdf) <br>
+  - 데이터베이스 학과 강의 팀 프로젝트
+  - 수행일 : 2020.12.09
+  - 참여 인원 : 총 4명(팀)
+  - Keyword : Oracle. SQL
+  - 내용 요약 : 영화 관련 DB 생성 후 SQL 질의문 활용 제안
+- [빅데이터 활용 사례 조사](https://github.com/dlguswls/MiniProject/blob/main/%EB%A7%88%EC%BC%80%ED%8C%85%EC%A1%B0%EC%82%AC%EB%A1%A0%EA%B3%BC%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0(%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%82%AC%EB%A1%80%20%EC%A1%B0%EC%82%AC).pdf) <br>
+  - 마케팅조사론과 빅데이터 학과 강의 빅데이터 활용 사례 관련 개인 조사 보고서
+- [카페 선정 요인 분석](https://github.com/dlguswls/MiniProject/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EC%9E%85%EB%AC%B8(%EC%B9%B4%ED%8E%98%20%EC%84%A0%EC%A0%95%20%EC%9A%94%EC%9D%B8%20%EB%B6%84%EC%84%9D).pdf) <br>
+  - 데이터마이닝 입문 학과 강의 팀 프로젝트
+  - 수행일 : 2019.06.11
+  - 참여 인원 : 총 4명(팀)
+  - Keyword : R. DecisionTree
+  - 내용 요약 : 네이버 웹툰 썸네일을 통해 자극적인 장르와 그렇지 않은 장르 구분
+- [증권사 자소서 분석](https://github.com/dlguswls/MiniProject/blob/main/%EC%A6%9D%EA%B6%8C%EC%82%AC%20%EC%9E%90%EC%86%8C%EC%84%9C%20%EB%B6%84%EC%84%9D.ipynb) <br>
+  - 증권사 자기소개서 내용 WordCloud
+
+
+
+
+
